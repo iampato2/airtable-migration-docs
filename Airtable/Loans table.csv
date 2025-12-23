@@ -1,0 +1,3 @@
+﻿LoanID,Customer ID,Previous_loans (from Customer ID) 2,Arrears,Sale Date,Returned,Sale Date (pretty),SALE DATE override,Grace Period,GracePeriod CreditExpiry,Grace Period Eligible,GracePeriodDateLastModified
+recs7m5VgyRvRRvDb,30989734,1ST time loan,KSh 0,2025-12-15T11:28:23.000Z,,2025-12-15,,,,Not Eligible,
+recNaKztjDdDDqaMH,30989734b,1ST time loan,KSh 0,2025-12-15T10:07:04.000Z,checked,2025-12-10,2025-12-10 2:42pm,,,#ERROR!,
